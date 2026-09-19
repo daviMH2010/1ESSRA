@@ -26,7 +26,6 @@ input {
     outline: none;
 }
 
-/* ATENÇÃO: Sem espaço entre "input" e ".campo-erro" */
 input.campo-erro {
     border-color: #e74c3c !important;
     background-color: #fceae9 !important;
